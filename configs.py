@@ -26,6 +26,9 @@ class Config:
     # 🚫 ILLEGAL WORDS (BOT SIDE FILTER)
     ILLEGAL_WORDS = [
         "@controllerbot",
+        "trading",
+        "using this bot",
+        "Gold NOW",
         "creatings",
         "tasks",
         "tasks.",
